@@ -1,1 +1,1 @@
-Run `kustomize build --enable-helm overlay` to see the working helm chart inflator generator with a patch.
+Run `kustomize build --enable-helm` at the root if this directory to see the working helm chart inflator generator with a patch.

@@ -1,0 +1,8 @@
+apiVersion: builtin
+kind: HelmChartInflationGenerator
+metadata:
+  name: myMap
+name: minecraft
+repo: https://itzg.github.io/minecraft-server-charts
+version: 3.1.0
+releaseName: test
